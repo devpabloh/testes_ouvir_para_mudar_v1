@@ -50,6 +50,7 @@ Bem-vindo ao projeto de automação de testes desenvolvido com Robot Framework! 
 
 ```
 testes_ouvir_para_mudar/
+├── automacao/           # Automações ex: ações envolvendo uma API (consumo, validação de end point)
 ├── resources/           # Recursos, variáveis e keywords comuns
 ├── tests/               # Casos de teste
 ├── results/             # Resultados dos testes (gerado automaticamente)
