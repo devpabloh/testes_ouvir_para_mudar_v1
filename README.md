@@ -12,7 +12,7 @@ Bem-vindo ao projeto de automação de testes desenvolvido com Robot Framework! 
 
 1. **Clone o repositório** (se aplicável):
    ```bash
-   git clone [URL_DO_REPOSITÓRIO]
+   git clone git@gitlab.pe.gov.br:gtd/testes_automatizados_ouvir_para_mudar.git
    cd testes_ouvir_para_mudar
    ```
 
