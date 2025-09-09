@@ -82,6 +82,16 @@ robot -d results -i smoke tests/
 - [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/)
 - [ExcelLibrary](https://github.com/zero-88/robotframework-excel)
 
+## Cursos
+
+- [Blog4Linux](https://github.com/zero-88/robotframework-excel)
+- [Horadoqa](https://github.com/horadoqa/curso-robot-framework?tab=readme-ov-file#8-boas-pr%C3%A1ticas-e-dicas-finais)
+- [Introdução - O que é o Robot Framework](youtube.com/watch?v=r3SqIn_XWYch)
+- [Robot Framework do Zero até automação do site da Amazon](youtube.com/watch?v=abcxIwF-d84h)
+- [Aprenda Robot Framework(API)](youtube.com/watch?v=q8bFDxr4ykQ)
+- [Como executar testes com CSV no robotFramework](youtube.com/watch?v=q8bFDxr4ykQ)
+- [Como criar e escrever em planilhas excel com Robot Framework](https://www.youtube.com/watch?v=xaZgUpk9JXY)
+
 ## Boas práticas
 
 1. Use nomes descritivos e em linguagem natural para os testes (exemplo: "Testar login com credenciais validas")
@@ -104,8 +114,8 @@ robot -d results -i smoke tests/
 
 ## Contribuição
 
-1. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
-2. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`)
+1. Crie uma branch para sua feature (`git checkout -b feature/nova-códigoDaAtividade`)
+2. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature + código da atividade'`)
 3. Faça push para a branch (`git push origin feature/nova-feature`)
 4. Abra um Pull Request
 
